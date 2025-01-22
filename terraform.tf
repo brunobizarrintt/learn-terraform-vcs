@@ -2,15 +2,13 @@
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-/*
   cloud {
-    organization = "brunobizarri"
+    organization = "brunobizarrintt"
 
     workspaces {
-      name = "learn-terraform"
+      name = "learn-terraform-vcs"
     }
   }
-*/
 
   required_providers {
     aws = {
